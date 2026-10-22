@@ -1,0 +1,21 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    font-size: 24px;
+}
+
+.recipe {
+    color: black;
+    font-family: sans-serif;
+    font-style: italic;
+}
